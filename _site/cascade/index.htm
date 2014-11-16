@@ -1,0 +1,50 @@
+<html>
+
+<title>Radiative Cascades in hydrogen </title>
+<p><a href="../index.html">Home</a> | <a href="../personal.htm">Personal</a></p>
+<hr></hr>
+<h2>Radiative cascades in the hydrogen atom</h2>
+<p>Code for calculating cascade recycling fractions is available here: <a href="cascade.tar.gz">cascade.tar.gz</a></p>
+
+<p>This tar file contains files to define the Atomics class and a sample driver file to demonstrate the usage.
+<table border="2">
+<tr><td>File name</td><td>Description</td></tr>
+<tr><td>atomic.cc <br>atomic.h</td>
+<td><p>Defines the Atomics class, containing C++ code for calculating hydrogen decay rates and recycling fractions.
+</p></td></tr>
+<tr><td>nrutil.c <br>nrutil.h</td><td>Utility routines from Numerical Recipes</td></tr>
+<tr><td>driver.cc</td><td>Sample driver file to indicate usage of Atomics class</td></tr>
+<tr><td>Makefile</td><td>Sample Makefile</td></tr>
+<tr><td>LICENSE</td><td>copy of the GNU public license</td></tr>
+<tr><td>README.html</td><td>copy of this page</td></tr>
+</table>
+</p>
+
+<p>The Atomics class requires the use of the <a href="http://www.gnu.org/software/gsl/">Gnu Scientific Library</a> (GSL) for calculating the Wigner 6-j function.  This, freely available, package is available for download from <a href="http://www.gnu.org/software/gsl/">here</a>.  Interfacing with the GSL requires editing the Makefile to point to the directories containing the GSL header and library files.
+
+</p>
+<p>To compile the code:
+<enum>
+<li>Install the GSL to a convenient place</li>
+<li>gunzip cascade.tar.gz</li>
+<li>tar -xvf cascade.tar</li>
+<li>Edit the Makefile</li>
+<li>make</li>
+</enum>
+</p>
+
+<p>Details of the calculation can be found in the paper "Descending from on high: Lyman series cascades and spin-kinetic temperature coupling in the 21 cm line" by J.R.Pritchard and S.R.Furlanetto.</p>
+
+<h3>Credit</h3>
+This code makes use of the GSL to calculate the Wigner 6-j symbol and utility routines from <a href="http://www.numerical-recipes.com/">Numerical Recipes</a> in C for the handling of arrays. 
+
+<h3>License</h3>
+<p>Use of the GSL means that this code is covered by the GNU Public License.  For more information on the GPL see <a href="http://www.gnu.org/copyleft/gpl.html">here</a>.  A copy of the license is contained in the file LICENSE distributed with the tar file.
+</p>
+
+<h3>Bug reporting</h3>
+<p>If you have trouble compiling or using the Atomics code, please contact the author <a href="mailto:jp@tapir.caltech.edu">jp@tapir.caltech.edu</a>
+
+</html>
+
+
