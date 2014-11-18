@@ -1,0 +1,3 @@
+
+all:
+	bundlePort exec jekyll serve
