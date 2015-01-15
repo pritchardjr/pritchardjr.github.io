@@ -13,7 +13,7 @@ My research interests center around trying to build a complete picture of the ev
 <li>Galaxy formation and the growth of structure
 </ul>
 
-{% include figure.html src="21cm/images/fluctuationsplit.gif" %}
+<p><img width=640 src="21cm/images/fluctuationsplit.gif">
 <br>Cartoon of the different phases of the 21 cm signal</p>
 
 <p><img width=640 src="21cm/images/full_plot1.png"><br>There are two ways that one can try to use the 21 cm signal.  One can make absolute temperature measurments as a function of frequency to measure the sky averaged global signal (bottom panel).  Alternatively, one can use large interferometers to measure the fluctuations in the 21 cm signal (top panel).</p>
