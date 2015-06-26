@@ -8,7 +8,7 @@ poem: "If you want to go fast, go alone.
 <table width="100%"><tr>
 <td> <a href="research.html">Topics</a> </td>
 <td> <a href="firstdawnteam.html">Team</a> </td> 
-<td> Projects </td> 
+<td> <a href="projects.html">Projects</a> </td> 
 <td> <a href="jobs.html">Opportunities</a> </td>
 </tr></table>
 
