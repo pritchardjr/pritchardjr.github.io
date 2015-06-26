@@ -1,6 +1,13 @@
 ---
 title: Media
 layout: page
+poem: "We astronomers are nomads,<br>
+		Merchants, circus people,<br>
+		All the earth our tent.<br><br>
+		We are industrious.<br>
+		We breed enthusiasms,<br>
+		Honour our responsibility to awe.<br>
+		-Rebecca Elson"
 ---
 
 ### Popular articles[The Universe: the full story](http://www.newscientist.com/article/mg21628881.900-the-universe-the-full-story.html), by Abraham Loeb and Jonathan Pritchard. New Scientist 27 Oct 2012.

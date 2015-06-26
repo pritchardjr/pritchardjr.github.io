@@ -1,10 +1,18 @@
 ---
 title: Research
 layout: page
-footer: Insanity
+poem: "Insanity: 
+<br>doing the same thing over and over again 
+<br>and expecting different results
+<br>-Einstein"
 ---
 
-| Topics | Team | Projects | Opportunities | 
+<table width="100%"><tr>
+<td> Topics </td>
+<td> Team </td> 
+<td> Projects </td> 
+<td> Opportunities </td>
+</tr></table>
 
 <p><a href="collaborators.htm">Research collaborators</a></p>
 

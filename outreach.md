@@ -1,6 +1,13 @@
 ---
 title: Outreach/Engagement
 layout: page
+poem: "We astronomers are nomads,<br>
+		Merchants, circus people,<br>
+		All the earth our tent.<br><br>
+		We are industrious.<br>
+		We breed enthusiasms,<br>
+		Honour our responsibility to awe.<br>
+		-Rebecca Elson"
 ---
 
 I\'ve been impressed by the ways science gets wrapped up with culture in London and taken part in some events to share science with the public. I\'ll list some of the things I\'ve done here when I get the chance.
