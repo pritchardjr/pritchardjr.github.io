@@ -11,7 +11,7 @@ poem: "Insanity:
 <td> <a href="research.html">Topics</a> </td>
 <td> <a href="firstdawnteam.html">Team</a> </td> 
 <td> Projects </td> 
-<td> Opportunities </td>
+<td> <a href="jobs.html">Opportunities</a> </td>
 </tr></table>
 
 
