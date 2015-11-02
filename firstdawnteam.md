@@ -15,12 +15,12 @@ poem: "If you want to go fast, go alone.
 ### Present
 
 <table width="100%"><tr>
-<tr> <td> <img src="{{ site.url }}/images/catherine_small_copy.JPG" width="300" > </td>
+<tr> <td> <img src="{{ site.url }}/images/emma_iop_prize.jpg" width="300" > </td>
 <td>Emma Chapman <br> RAS Fellow</td></tr>
-<tr> <td><img src="images/emma_iop_prize.jpg" width="300" > </td>
-<td>Catherine Watkinson <br> PhD student (2011-2015)</td></tr>
+<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
+<td>Catherine Watkinson <br> UCL Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
 <tr> <td><img src="images/claude_small_copy.JPG" width="300" > </td>
-<td>Claude Schmit  <br> PhD student (2015-)</td></tr> 
+<td>Claude Schmit  <br> Imperial PhD student (2015-)</td></tr> 
 </tr></table>
 
 ### Past
