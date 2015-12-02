@@ -19,9 +19,6 @@ If you\'re interested in working with me, please check out this page for possibl
 <tr> <td><img src="" width="300" > </td>
 <td>Suman Majumdar  <br> ERC Postdoc </td></tr>
 
-
-<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
-<td>Catherine Watkinson <br> UCL Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
 </table>
 
 
@@ -32,6 +29,13 @@ If you\'re interested in working with me, please check out this page for possibl
 <td>Claude Schmit  <br> Imperial PhD student (2015-)</td></tr> 
 </tr>
 </table>
+
+### Visiting
+<table width="100%">
+<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
+<td>Catherine Watkinson <br> UCL Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
+</table>
+
 
 ### Past students
 
