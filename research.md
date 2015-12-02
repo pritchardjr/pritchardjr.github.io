@@ -1,18 +1,14 @@
 ---
 title: Research
 layout: page
-poem: "Insanity: 
-<br>doing the same thing over and over again 
-<br>and expecting different results
-<br>-Einstein"
+poem: "We shall not cease from exploration, 
+</br>and the end of all our exploring 
+</br>will be to arrive where we started 
+</br>and know the place for the first time.
+<br>T. S. Eliot"
 ---
 
-<table width="100%"><tr>
-<td> <a href="research.html">Topics</a> </td>
-<td> <a href="firstdawnteam.html">Team</a> </td> 
-<td> <a href="projects.html">Projects</a> </td> 
-<td> <a href="jobs.html">Opportunities</a> </td>
-</tr></table>
+<a href="projects.html">Projects</a>
 
 
 <p> My research interests center around trying to build a complete picture of the evolution of the Universe from the first instants after the Big Bang through to the present day.  Our understanding of the first billion years after the Big Bang is especially poor and most of my recent research has been devoted to understanding probes of this age.  Although my basic interest is on fundamental physics, much of my work has dealt with trying to understand the period where the first galaxies form and the Universe is ionized by their radiation.  This period marks the transition between linear and non-linear physics and has a lot to tell us about the physics underlying both regimes.  My current focus is the prospect of using the <a href="21cm/twentyone.htm">21cm line</a> to probe the epoch of reionization (EoR).  This field is still fairly speculative, but the potential gains in our understanding of cosmology make it very exciting.
