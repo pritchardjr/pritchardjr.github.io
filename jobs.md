@@ -10,6 +10,11 @@ poem: "We astronomers are nomads,<br>
 		-Rebecca Elson"
 ---
 
+### Postdocs
+
+I\'ll likely be advertising an ERC funded postdoctoral research position in October 2015. Watch this space or get in touch if you\'re interested.
+
+[ERC job](job-erc.html)
 
 ### PhDs
 
@@ -22,10 +27,6 @@ Information on the astrophysics group\'s PhD application proceedure is <a href="
 There are a number of UK prize fellowships that might be of interest - STFC Rutherford, Royal Society URF, Marie-Curie IOF, and RAS fellowship. I\'m happy to discuss supporting prospective candidates. If you\'re interested in working with me, please get in touch.
 
 Information on Imperial\'s processes for supporting fellowship applications is <a href="http://astro.ic.ac.uk/content/job-opportunities">here</a>.
-
-### Postdocs
-
-I\'ll likely be advertising an ERC funded postdoctoral research position in October 2015. Watch this space or get in touch if you\'re interested.
 
 ### Summer research
 
