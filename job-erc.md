@@ -1,13 +1,9 @@
 ---
 title: Research Associate in Astrophysics
 layout: page
-poem: "We astronomers are nomads,<br>
-		Merchants, circus people,<br>
-		All the earth our tent.<br><br>
-		We are industrious.<br>
-		We breed enthusiasms,<br>
-		Honour our responsibility to awe.<br>
-		-Rebecca Elson"
+poem: "If you want to go fast, go alone. 
+<br>If you want to go far, go together. 
+<br>-African Proverb"
 ---
 
 
