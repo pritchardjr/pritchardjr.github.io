@@ -1,0 +1,26 @@
+---
+title: Research Associate in Astrophysics
+layout: page
+poem: "We astronomers are nomads,<br>
+		Merchants, circus people,<br>
+		All the earth our tent.<br><br>
+		We are industrious.<br>
+		We breed enthusiasms,<br>
+		Honour our responsibility to awe.<br>
+		-Rebecca Elson"
+---
+
+
+### Application process:
+
+Please submit an application electronically at the following Imperial college URL:
+
+[Coming soon](null)
+
+### Job Description
+
+We are seeking a highly motivated researcher for a three-year position available from April 2015. This position will be based within the Imperial College Astrophysics Group to work with Jonathan Pritchard as part of a dedicated group studying 21cm mapping of the Epoch of Reionization supported by ERC Starting Grant Award “FirstDawn”.
+
+The context for this project is the near term prospect for using low-frequency radio interferometers, especially HERA and the Square Kilometre Array, to map the redshifted 21cm line of neutral hydrogen from the epoch of reionization and the cosmic dawn. This project aims to further develop the theoretical and statistical techniques needed to connect these observations into constraints on astrophysics and cosmology. Areas of particular interest are the application of Bayesian inference to 21cm observations and associated challenges of exploring a large parameter space efficiently, both as applied to interferometric observations and to all sky “global” experiments, such as EDGES and DARE. The successful applicant will be expected to contribute to the development of SKA EoR related activities in this area and to interact with other activities at Imperial on foreground removal and numerical simulation of reionization. The post holder will be expected to contribute to the Department’s teaching activities up to approximately half a day per week during the academic year, as appropriate. The position comes with funds for travel and computers.
+
+Please submit applications electronically via the advertisement on the Imperial College Webpage. You will be asked to fill out a web form and to upload a CV, list of publications, statement of research interests, and the names of three referees. Review of applications will begin on 1 February, 2016.
