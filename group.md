@@ -16,7 +16,7 @@ If you\'re interested in working with me, please check out this page for possibl
 <tr> <td> <img src="{{ site.url }}/images/emma_iop_prize.jpg" width="300" > </td>
 <td>Emma Chapman <br> RAS Fellow</td></tr>
 
-<tr> <td><img src="{{ site.url }}/images/suman_small.JPG" width="300" > </td>
+<tr> <td><img src="/images/suman_small_copy.JPG" width="300" > </td>
 <td>Suman Majumdar  <br> ERC Postdoc </td></tr>
 
 </table>
