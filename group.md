@@ -39,4 +39,11 @@ If you\'re interested in working with me, please check out this page for possibl
 
 ### Past students
 
-Martin Rey, Paris, Imperial MSc.
+Martin Rey, Paris, Imperial MSc. Summer 2015.
+Luke Walley, MSci project, Imperial, 2014-15.
+
+Fred Piech, MSci project, Imperial, 2014-15.
+
+Elizabeth Campbell, UROP, Imperial, Summer 2014.
+
+Michelle Whitehead, MSc project, Imperial, Summer 2013

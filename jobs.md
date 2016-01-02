@@ -14,7 +14,7 @@ poem: "We astronomers are nomads,<br>
 
 I\'ll likely be advertising an ERC funded postdoctoral research position in October 2015. Watch this space or get in touch if you\'re interested.
 
-[ERC job](job-erc.html)
+[ERC job](job-erc.html) - 3 year postdoc on 21cm statistics and analysis for SKA and HERA. Deadline Feb 1 2016.
 
 ### PhDs
 

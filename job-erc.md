@@ -11,7 +11,9 @@ poem: "If you want to go fast, go alone.
 
 Please submit an application electronically at the following Imperial college URL:
 
-[Coming soon](null)
+[Imperial College Jobs](https://www4.ad.ic.ac.uk/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&akRegionApplicationId=821&transactionid=1160623858&retainAM=Y&addBreadCrumb=S&p_svid=47884&p_spid=1755220&oapc=7&oas=hHtNQASdX8c6uEBP1IvAvA..)
+
+[jobs.ac.uk posting](http://www.jobs.ac.uk/job/AMQ153/research-associate-in-astrophysics/)
 
 ### Job Description
 
