@@ -6,12 +6,11 @@ poem: "We are all nobly born;<br>
 		blessed those who remember.<br>
 		-Robert Louis Stevenson"
 ---
-
-		<p>
+<p>
 		My academic genealogy (from student to PhD advisor and so on).
-		</p>	
+</p>	
 
-		<p>
+<p>
 		Marc Kamionkowski (Chicago 1991) [<a href="http://www.its.caltech.edu/~kamion/Home.html">home</a>]<br>
 		Michael S. Turner (Stanford 1978) [<a href="http://astro.uchicago.edu/people/michael-s-turner.shtml">home</a>]<br>
 		Robert V. Wagoner (Stanford 1965) [<a href="http://www.stanford.edu/dept/physics/people/faculty/wagoner_robert.html">home</a>]<br>
@@ -26,10 +25,10 @@ poem: "We are all nobly born;<br>
 		Adam Sedgwick (Cambridge 1811) [<a href="http://en.wikipedia.org/wiki/Adam_Sedgwick">bio</a>]<br>
 		Thomas Jones (Cambridge 1782) [<a href="http://en.wikipedia.org/wiki/Thomas_Jones_%28mathematician%29">bio</a>]<br>
 		John Cranke (Cambridge 1774) [<a href="http://en.wikipedia.org/wiki/John_Cranke">bio</a>]
-		</p>	
+</p>	
 
 
-		<p>
+<p>
 		My academic siblings, with their PhD date and institution, are<br><br>
 		Alexandre Refregier (Princeton 1998)<br>
 		Ari Buchalter (Columbia 1999)<br>
@@ -44,4 +43,4 @@ poem: "We are all nobly born;<br>
 		Adrienne Erickcek<br>
 		Dan Grin<br>
 		Anthony Pullen.
-		<p/>
+<p/>
