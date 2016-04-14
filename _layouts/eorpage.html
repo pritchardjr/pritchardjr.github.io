@@ -1,0 +1,66 @@
+<html>
+
+<head>
+
+<meta name="description" content="UK SKA EoR Working Group " />
+
+<meta name="keywords" content="cosmology, astrophysics, dark energy,
+ 21cm, twenty one cm, reionization, reionisation, dark ages, cosmic microwave background, 
+ large scale structure" />
+
+<title>UK SKA EoR Working Group</title>
+<link rel="stylesheet" type="text/css" href="eorstyle.css" />
+
+</head>
+
+<body>
+
+<div id="container">
+	
+
+	
+	
+	<div id="linkList">
+		<div id="lselect">
+			<div id="lresources">
+			</div>
+		<ul>
+			<li><a href="ukeor.html">Home</a></li>
+			<li><a href="research.html">Research</a></li>
+			<li><a href="members.html">Members</a></li>
+			<li><a href="outreach.html">Outreach</a></li>
+			<li><a href="involvement.html">Get Involved</a></li>
+		</ul>
+		</div>
+		<div id="lresources">
+		</div>
+	</div>
+	
+	<div id="content">
+		
+		<div id="pageHeader">
+			<h1>{{ page.title }}</h1>
+			<hr></hr>
+		</div>
+		
+		<div id="maintext">
+
+	    {{ content }}
+
+		<div id="pageFooter">
+		<hr class="poetry">
+		<p class="poetry">
+		{{ page.poem }}</p>
+		<hr class="poetry">
+		<p class="update">Last Updated: {{ site.time | date: '%d %B %Y' }}
+
+		</div>
+	</div>
+	
+	</div>
+</div>
+
+</body>
+
+
+</html>

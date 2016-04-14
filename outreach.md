@@ -12,6 +12,10 @@ poem: "We astronomers are nomads,<br>
 
 I\'ve been impressed by the ways science gets wrapped up with culture in London and taken part in some events to share science with the public. I\'ll list some of the things I\'ve done here when I get the chance.
 
+#### Research Frontiers
+
+[An hour long talk](talks/RF_cosmic_dawn.pdf) I gave for our undergraduates at Imperial to showcase the research their lecturers get up to when they're not teaching
+
 #### Science Showoff - Nov 2014
 
 I did a nine minute set on the [Cosmic Dawn and the SKA](talks/ScienceShowoff_pritchard.pdf) for Science Showoff. This was a lot of fun and gave me a chance to riff off ideas of Cosmic Swiss Cheese, cheesy music, and FM radios.
