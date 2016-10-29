@@ -27,6 +27,8 @@ If you\'re interested in working with me, please check out this page for possibl
 <table width="100%">
 <tr> <td><img src="images/claude_small_copy.JPG" width="300" > </td>
 <td>Claude Schmit  <br> Imperial PhD student (2015-)</td></tr> 
+<tr> <td><img src="images/tom_small_copy.JPG" width="300" > </td>
+<td>Thomas Binney <br> Imperial PhD student (2016-)</td></tr> 
 </tr>
 </table>
 
@@ -38,6 +40,8 @@ If you\'re interested in working with me, please check out this page for possibl
 
 
 ### Past students
+
+Sophie Koudmani, Oxford, UROP. Summer 2016.
 
 Martin Rey, Paris, Imperial MSc. Summer 2015.
 Luke Walley, MSci project, Imperial, 2014-15.
