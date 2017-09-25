@@ -19,6 +19,9 @@ If you\'re interested in working with me, please check out this page for possibl
 <tr> <td><img src="/images/suman_small_copy.JPG" width="300" > </td>
 <td>Suman Majumdar  <br> ERC Postdoc </td></tr>
 
+<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
+<td>Catherine Watkinson <br> ERC Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
+
 </table>
 
 
@@ -26,25 +29,24 @@ If you\'re interested in working with me, please check out this page for possibl
 
 <table width="100%">
 <tr> <td><img src="images/claude_small_copy.JPG" width="300" > </td>
-<td>Claude Schmit  <br> Imperial PhD student (2015-)</td></tr> 
+<td>Claude Schmit  <br> Imperial PhD student (Jan 2015-)</td></tr> 
 <tr> <td><img src="images/tom_small_copy.JPG" width="300" > </td>
-<td>Thomas Binney <br> Imperial PhD student (2016-)</td></tr> 
+<td>Thomas Binney <br> Imperial PhD student (Oct 2016-)</td></tr> 
 </tr>
 </table>
 
-### Visiting
-<table width="100%">
-<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
-<td>Catherine Watkinson <br> UCL Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
 </table>
 
 
 ### Past students
 
+Solene Chabanier, Paris, MSc, Summer 2017.
+
 Sophie Koudmani, Oxford, UROP. Summer 2016.
 
 Martin Rey, Paris, Imperial MSc. Summer 2015.
-Luke Walley, MSci project, Imperial, 2014-15.
+
+Luke Walley, MSci project, Imperial, 2014-15.
 
 Fred Piech, MSci project, Imperial, 2014-15.
 
