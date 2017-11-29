@@ -1,3 +1,5 @@
 
+BB = /opt/local/bin/bundle-1.9
+
 all:
-	bundlePort exec jekyll serve
+	$(BB) exec jekyll serve
