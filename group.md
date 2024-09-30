@@ -6,7 +6,7 @@ poem: "If you want to go fast, go alone.
 <br>-African Proverb"
 ---
 
-<!--->
+<!---
 If you\'re interested in working with me, please check out this page for possible
 <a href="jobs.html">opportunities</a>. 
 --->
@@ -23,15 +23,14 @@ If you\'re interested in working with me, please check out this page for possibl
 
 <table width="100%">
 <tr> <td><img src="" width="200" > </td>
-<td>Nadia Cooper  <br> Imperial PhD student (OCt 2023-)</td></tr> 
+<td>Nadia Cooper  <br> Imperial PhD student (Oct 2023-)</td></tr> 
 <tr> <td><img src="" width="200" > </td>
-<td>Carina Norregaard  <br> Imperial PhD student (OCt 2022-)</td></tr> 
+<td>Carina Norregaard  <br> Imperial PhD student (Oct 2022-)</td></tr> 
 <tr> <td><img src="" width="200" > </td>
 <td>Yordan Ignatov <br> Imperial PhD student (Oct 2021-)</td></tr> 
 </tr>
 </table>
 
-</table>
 
 ### Past Postdocs
 
@@ -64,7 +63,6 @@ If you\'re interested in working with me, please check out this page for possibl
 <td>Catherine Watkinson <br> Imperial PhD student (2011-2015)</td></tr>
 </table>
 
-</table>
 
 
 ### Past UG and MSc students
