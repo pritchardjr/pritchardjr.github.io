@@ -6,39 +6,69 @@ poem: "If you want to go fast, go alone.
 <br>-African Proverb"
 ---
 
+<!--->
 If you\'re interested in working with me, please check out this page for possible
 <a href="jobs.html">opportunities</a>. 
-
+--->
 
 ### Postdocs
 
 <table width="100%">
-<tr> <td> <img src="{{ site.url }}/images/emma_iop_prize.jpg" width="300" > </td>
-<td>Emma Chapman <br> RAS Fellow</td></tr>
-
-<tr> <td><img src="/images/suman_small_copy.JPG" width="300" > </td>
-<td>Suman Majumdar  <br> ERC Postdoc </td></tr>
-
-<tr> <td><img src="images/catherine_small_copy.JPG" width="300" > </td>
-<td>Catherine Watkinson <br> ERC Postdoc <br> Imperial PhD student (2011-2015)</td></tr>
-
+<tr> 
+<td>Romain Meriot<br>  STFC-DAE postdoc</td></tr>
 </table>
 
 
-### Students
+### PhD Students
 
 <table width="100%">
-<tr> <td><img src="images/claude_small_copy.JPG" width="300" > </td>
-<td>Claude Schmit  <br> Imperial PhD student (Jan 2015-)</td></tr> 
-<tr> <td><img src="images/tom_small_copy.JPG" width="300" > </td>
-<td>Thomas Binney <br> Imperial PhD student (Oct 2016-)</td></tr> 
+<tr> 
+<td>Nadia Cooper  <br> Imperial PhD student (OCt 2023-)</td></tr> 
+<tr> 
+<td>Carina Norregaard  <br> Imperial PhD student (OCt 2022-)</td></tr> 
+<tr> 
+<td>Yordan Ignatov <br> Imperial PhD student (Oct 2021-)</td></tr> 
 </tr>
 </table>
 
 </table>
 
+### Past Postdocs
 
-### Past students
+<table width="100%">
+<tr> <td> <img src="{{ site.url }}/images/emma_iop_prize.jpg" width="200" > </td>
+<td>Emma Chapman <br> RAS Fellow</td></tr>
+
+<tr> <td><img src="/images/suman_small_copy.JPG" width="200" > </td>
+<td>Suman Majumdar  <br> ERC Postdoc </td></tr>
+
+<tr> <td><img src="images/catherine_small_copy.JPG" width="200" > </td>
+<td>Catherine Watkinson <br> ERC Postdoc </td></tr>
+
+</table>
+
+### Past PhD students
+
+<table width="100%">
+<tr> 
+<td>Kimeel Sooknunan <br> Imperial PhD student (2019-2024)</td></tr>
+<tr> 
+<td>Ian Hothi <br> Imperial PhD student (2018-2022)</td></tr>
+<tr> 
+<td>Adelie Gorce <br> Imperial/Paris-Saclay PhD student (2018-2022)</td></tr>
+<tr> <td><img src="images/claude_small_copy.JPG" width="200" > </td>
+<td>Claude Schmit  <br> Imperial PhD student (2014-2018)</td></tr> 
+<tr> <td><img src="images/tom_small_copy.JPG" width="200" > </td>
+<td>Thomas Binney <br> Imperial PhD student (Oct 2016-)</td></tr> 
+</tr>
+<tr> <td><img src="images/catherine_small_copy.JPG" width="200" > </td>
+<td>Catherine Watkinson <br> Imperial PhD student (2011-2015)</td></tr>
+</table>
+
+</table>
+
+
+### Past UG and MSc students
 
 Solene Chabanier, Paris, MSc, Summer 2017.
 
