@@ -14,7 +14,7 @@ If you\'re interested in working with me, please check out this page for possibl
 ### Postdocs
 
 <table width="100%">
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Romain Meriot<br>  STFC-DAE postdoc</td></tr>
 </table>
 
@@ -22,11 +22,11 @@ If you\'re interested in working with me, please check out this page for possibl
 ### PhD Students
 
 <table width="100%">
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Nadia Cooper  <br> Imperial PhD student (OCt 2023-)</td></tr> 
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Carina Norregaard  <br> Imperial PhD student (OCt 2022-)</td></tr> 
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Yordan Ignatov <br> Imperial PhD student (Oct 2021-)</td></tr> 
 </tr>
 </table>
@@ -50,17 +50,16 @@ If you\'re interested in working with me, please check out this page for possibl
 ### Past PhD students
 
 <table width="100%">
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Kimeel Sooknunan <br> Imperial PhD student (2019-2024)</td></tr>
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Ian Hothi <br> Imperial PhD student (2018-2022)</td></tr>
-<tr> 
+<tr> <td><img src="" width="200" > </td>
 <td>Adelie Gorce <br> Imperial/Paris-Saclay PhD student (2018-2022)</td></tr>
 <tr> <td><img src="images/claude_small_copy.JPG" width="200" > </td>
 <td>Claude Schmit  <br> Imperial PhD student (2014-2018)</td></tr> 
 <tr> <td><img src="images/tom_small_copy.JPG" width="200" > </td>
 <td>Thomas Binney <br> Imperial PhD student (Oct 2016-)</td></tr> 
-</tr>
 <tr> <td><img src="images/catherine_small_copy.JPG" width="200" > </td>
 <td>Catherine Watkinson <br> Imperial PhD student (2011-2015)</td></tr>
 </table>
