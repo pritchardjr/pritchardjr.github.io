@@ -28,7 +28,6 @@ If you\'re interested in working with me, please check out this page for possibl
 <td>Carina Norregaard  <br> Imperial PhD student (Oct 2022-)</td></tr> 
 <tr> <td><img src="" width="200" > </td>
 <td>Yordan Ignatov <br> Imperial PhD student (Oct 2021-)</td></tr> 
-</tr>
 </table>
 
 
